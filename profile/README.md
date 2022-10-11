@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://offlinecheatbreaker.com/v/images/logo-108.png" width="86" height="86" />
+    <a href="https://offlinecheatbreaker.com"><img src="https://offlinecheatbreaker.com/v/images/logo-108.png" width="86" height="86"></a>
 </p>
 
 <h1 align="center">Offline CheatBreaker</h1>
