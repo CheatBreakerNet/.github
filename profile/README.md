@@ -14,6 +14,7 @@ Offline CheatBreaker is a continuation of the original CheatBreaker (which was s
 ## 🖥️ Social
 - [Discord](https://discord.offlinecheatbreaker.com)
 - [Twitter](https://twitter.com/OfflineCB)
+- [Mastodon](https://routing.center/@CheatBreaker)
 - [Telegram](https://t.me/OfflineCheatBreaker)
 
 ## 📝 Changelogs
