@@ -1,28 +1,28 @@
 <p align="center">
-    <a href="https://offlinecheatbreaker.com"><img src="https://offlinecheatbreaker.com/v/images/logo-108.png" width="86" height="86"></a>
+    <a href="https://cheatbreaker.net"><img src="https://cheatbreaker.net/v/images/logo-108.png" width="86" height="86"></a>
 </p>
 
-<h1 align="center">Offline CheatBreaker</h1>
+<h1 align="center">CheatBreaker</h1>
 
-Offline CheatBreaker is a continuation of the original CheatBreaker (which was shutdown in 2018 and was a modpack and FPS booster combined) with 1.7.10 & 1.8.9 support, free cosmetics, launcher, Discord integration & more!
+CheatBreaker is a modpack and FPS booster combined, with 1.7.10 & 1.8.9 support, free cosmetics, launcher, Discord integration & more!
 
 ## 🎮 Get started
-- [Website & Download](https://offlinecheatbreaker.com)
-- [FAQ](https://offlinecheatbreaker.com/faq)
-- [Self Diagnostics](https://offlinecheatbreaker.com/self-diagnostics)
+- [Website & Download](https://cheatbreaker.net)
+- [FAQ](https://cheatbreaker.net/faq)
+- [Self Diagnostics](https://cheatbreaker.net/self-diagnostics)
 
 ## 🖥️ Social
-- [Discord](https://discord.offlinecheatbreaker.com)
-- [Twitter](https://twitter.com/OfflineCB)
+- [Discord](https://discord.cheatbreaker.net)
+- [Twitter](https://twitter.cheatbreaker.net)
 - [Mastodon](https://routing.center/@CheatBreaker)
-- [Telegram](https://t.me/OfflineCheatBreaker)
+- [Telegram](https://telegram.cheatbreaker.net)
 
 ## 📝 Changelogs
-- [Client](https://github.com/Offline-CheatBreaker/Client/releases)
-- [Launcher](https://github.com/Offline-CheatBreaker/Launcher/releases)
-- [Bukkit API](https://github.com/Offline-CheatBreaker/Bukkit-API/releases)
+- [Client](https://github.com/CheatBreakerNet/Client/releases)
+- [Launcher](https://github.com/CheatBreakerNet/Launcher/releases)
+- [Bukkit API](https://github.com/CheatBreakerNet/Bukkit-API/releases)
 
 ## ⌨️ Server resources
-- [Bukkit API](https://github.com/Offline-CheatBreaker/Bukkit-API)
-- [Connect with CheatBreaker](https://github.com/Offline-Cheatbreaker/Launcher/wiki/Connect-with-CheatBreaker)
-- [Status page](https://status.offlinecheatbreaker.com)
+- [Bukkit API](https://github.com/CheatBreakerNet/Bukkit-API)
+- [Connect with CheatBreaker](https://github.com/CheatBreakerNet/Launcher/wiki/Connect-with-CheatBreaker)
+- [Status page](https://status.cheatbreaker.net)
