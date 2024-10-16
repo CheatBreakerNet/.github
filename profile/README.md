@@ -9,7 +9,7 @@ CheatBreaker is a modpack and FPS booster combined, with 1.7.10 & 1.8.9 support,
 ## 🎮 Get started
 - [Website & Download](https://cheatbreaker.net)
 - [FAQ](https://cheatbreaker.net/faq)
-- [Self Diagnostics](https://cheatbreaker.net/self-diagnostics)
+- [Documentation](https://docs.cheatbreaker.net)
 
 ## 🖥️ Social
 - [Discord](https://discord.cheatbreaker.net)
@@ -23,7 +23,7 @@ CheatBreaker is a modpack and FPS booster combined, with 1.7.10 & 1.8.9 support,
 - [Bukkit API](https://github.com/CheatBreakerNet/Bukkit-API/releases)
 
 ## ⌨️ Server resources
-- [Bukkit API](https://github.com/CheatBreakerNet/Bukkit-API)
-- [Connect with CheatBreaker](https://github.com/CheatBreakerNet/Launcher/wiki/Connect-with-CheatBreaker)
-- [Client API](https://github.com/CheatBreakerNet/Client-API)
+- [Bukkit API](https://docs.cheatbreaker.net/category/bukkit-api)
+- [Connect with CheatBreaker](https://docs.cheatbreaker.net/category/connect-with-cheatbreaker)
+- [Server Mappings](https://docs.cheatbreaker.net/category/server-mappings)
 - [Status page](https://status.cheatbreaker.net)
