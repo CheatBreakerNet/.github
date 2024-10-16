@@ -25,4 +25,5 @@ CheatBreaker is a modpack and FPS booster combined, with 1.7.10 & 1.8.9 support,
 ## ⌨️ Server resources
 - [Bukkit API](https://github.com/CheatBreakerNet/Bukkit-API)
 - [Connect with CheatBreaker](https://github.com/CheatBreakerNet/Launcher/wiki/Connect-with-CheatBreaker)
+- [Client API](https://github.com/CheatBreakerNet/Client-API)
 - [Status page](https://status.cheatbreaker.net)
