@@ -14,8 +14,7 @@ CheatBreaker is a modpack and FPS booster combined, with 1.7.10 & 1.8.9 support,
 ## 🖥️ Social
 - [Discord](https://discord.cheatbreaker.net)
 - [Twitter](https://twitter.cheatbreaker.net)
-- [Mastodon](https://routing.center/@CheatBreaker)
-- [Telegram](https://telegram.cheatbreaker.net)
+- [Mastodon](https://mastodon.social/@CheatBreaker)
 
 ## 📝 Changelogs
 - [Client](https://github.com/CheatBreakerNet/Client/releases)
